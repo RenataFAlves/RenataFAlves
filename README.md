@@ -6,5 +6,5 @@
 
 <div align="center">
   <br/>
-  <p aling="center"> "Ao conectar dados e ideias na agricultura, tenho certeza de que podemos ir a qualquer lugar!</p>
+  <p aling="center"> "Transforme dados em vida: cada algoritmo que você cria pode florescer em sustentabilidade e alimentar o mundo.!</p>
 </div>
